@@ -1,1 +1,42 @@
-<Solution />
+<Solution>
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.ShurlyginDS.Sprint4.Task0.V18.Lib/Tyuiu.ShurlyginDS.Sprint4.Task0.V18.Lib.csproj" />
+    <Project Path="Tyuiu.ShurlyginDS.Sprint4.Task0.V18.Test/Tyuiu.ShurlyginDS.Sprint4.Task0.V18.Test.csproj" />
+    <Project Path="Tyuiu.ShurlyginDS.Sprint4.Task0.V18/Tyuiu.ShurlyginDS.Sprint4.Task0.V18.csproj" />
+  </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.ShurlyginDS.Sprint4.Task1.V12.Lib/Tyuiu.ShurlyginDS.Sprint4.Task1.V12.Lib.csproj" />
+    <Project Path="Tyuiu.ShurlyginDS.Sprint4.Task1.V12.Test/Tyuiu.ShurlyginDS.Sprint4.Task1.V12.Test.csproj" />
+    <Project Path="Tyuiu.ShurlyginDS.Sprint4.Task1.V12/Tyuiu.ShurlyginDS.Sprint4.Task1.V12.csproj" />
+  </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.ShurlyginDS.Sprint4.Task2.Lib/Tyuiu.ShurlyginDS.Sprint4.Task2.V17.Lib.csproj" />
+    <Project Path="Tyuiu.ShurlyginDS.Sprint4.Task2.Test/Tyuiu.ShurlyginDS.Sprint4.Task2.V17.Test.csproj" />
+    <Project Path="Tyuiu.ShurlyginDS.Sprint4.Task2/Tyuiu.ShurlyginDS.Sprint4.Task2.V17.csproj" />
+  </Folder>
+  <Folder Name="/Task3/">
+    <Project Path="Tyuiu.ShurlyginDS.Sprint4.Task3.V2.Lib/Tyuiu.ShurlyginDS.Sprint4.Task3.V2.Lib.csproj" />
+    <Project Path="Tyuiu.ShurlyginDS.Sprint4.Task3.V2.Test/Tyuiu.ShurlyginDS.Sprint4.Task3.V2.Test.csproj" />
+    <Project Path="Tyuiu.ShurlyginDS.Sprint4.Task3.V2/Tyuiu.ShurlyginDS.Sprint4.Task3.V2.csproj" />
+  </Folder>
+  <Folder Name="/Task4/">
+    <Project Path="Tyuiu.ShurlyginDS.Sprint4.Task4.V16.Lib/Tyuiu.ShurlyginDS.Sprint4.Task4.V16.Lib.csproj" />
+    <Project Path="Tyuiu.ShurlyginDS.Sprint4.Task4.V16.Test/Tyuiu.ShurlyginDS.Sprint4.Task4.V16.Test.csproj" />
+    <Project Path="Tyuiu.ShurlyginDS.Sprint4.Task4.V16/Tyuiu.ShurlyginDS.Sprint4.Task4.V16.csproj" />
+  </Folder>
+  <Folder Name="/Task5/">
+    <Project Path="Tyuiu.ShurlyginDS.Sprint4.Task5.V26.Lib.Test/Tyuiu.ShurlyginDS.Sprint4.Task5.V26.Lib.Test.csproj" />
+    <Project Path="Tyuiu.ShurlyginDS.Sprint4.Task5.V26.Lib/Tyuiu.ShurlyginDS.Sprint4.Task5.V26.Lib.csproj" />
+    <Project Path="Tyuiu.ShurlyginDS.Sprint4.Task5.V26/Tyuiu.ShurlyginDS.Sprint4.Task5.V26.csproj" />
+  </Folder>
+  <Folder Name="/Task6/">
+    <Project Path="Tyuiu.ShurlyginDS.Sprint4.Task6.V29.Lib/Tyuiu.ShurlyginDS.Sprint4.Task6.V29.Lib.csproj" />
+    <Project Path="Tyuiu.ShurlyginDS.Sprint4.Task6.V29.Test/Tyuiu.ShurlyginDS.Sprint4.Task6.V29.Test.csproj" />
+    <Project Path="Tyuiu.ShurlyginDS.Sprint4.Task6.V29/Tyuiu.ShurlyginDS.Sprint4.Task6.V29.csproj" />
+  </Folder>
+  <Folder Name="/Task7/">
+    <Project Path="Tyuiu.ShurlyginDS.Sprint4.Task7.V6.Lib/Tyuiu.ShurlyginDS.Sprint4.Task7.V6.Lib.csproj" />
+    <Project Path="Tyuiu.ShurlyginDS.Sprint4.Task7.V6.Test/Tyuiu.ShurlyginDS.Sprint4.Task7.V6.Test.csproj" />
+    <Project Path="Tyuiu.ShurlyginDS.Sprint4.Task7.V6/Tyuiu.ShurlyginDS.Sprint4.Task7.V6.csproj" />
+  </Folder>
+</Solution>
