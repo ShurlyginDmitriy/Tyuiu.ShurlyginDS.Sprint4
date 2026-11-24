@@ -1,12 +1,12 @@
 ﻿using Tyuiu.ShurlyginDS.Sprint4.Task5.V26.Lib;
 
-namespace Tyuiu.ShurlyginDS.Sprint4.Task5.V26.Lib.Test
+namespace Tyuiu.ShurlyginDS.Sprint4.Task5.V26.Test
 {
     [TestClass]
     public sealed class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void ValidCalculate()
         {
             DataService ds = new DataService();
 

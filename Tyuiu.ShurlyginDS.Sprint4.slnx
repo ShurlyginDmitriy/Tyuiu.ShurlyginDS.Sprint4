@@ -25,8 +25,8 @@
     <Project Path="Tyuiu.ShurlyginDS.Sprint4.Task4.V16/Tyuiu.ShurlyginDS.Sprint4.Task4.V16.csproj" />
   </Folder>
   <Folder Name="/Task5/">
-    <Project Path="Tyuiu.ShurlyginDS.Sprint4.Task5.V26.Lib.Test/Tyuiu.ShurlyginDS.Sprint4.Task5.V26.Lib.Test.csproj" />
     <Project Path="Tyuiu.ShurlyginDS.Sprint4.Task5.V26.Lib/Tyuiu.ShurlyginDS.Sprint4.Task5.V26.Lib.csproj" />
+    <Project Path="Tyuiu.ShurlyginDS.Sprint4.Task5.V26.Test/Tyuiu.ShurlyginDS.Sprint4.Task5.V26.Test.csproj" />
     <Project Path="Tyuiu.ShurlyginDS.Sprint4.Task5.V26/Tyuiu.ShurlyginDS.Sprint4.Task5.V26.csproj" />
   </Folder>
   <Folder Name="/Task6/">
